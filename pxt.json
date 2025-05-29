@@ -1,0 +1,29 @@
+{
+    "name": "MGS - Space Destroyer Template",
+    "description": "",
+    "dependencies": {
+        "device": "*"
+    },
+    "files": [
+        "main.ts",
+        "README.md",
+        "assets.json",
+        "main.py"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "branch": "v1.12.47",
+        "tag": "v1.12.47",
+        "commits": "https://github.com/microsoft/pxt-arcade/commits/0da32d00b71ad17bdde6e0defc054446e17ad4e1",
+        "target": "2.0.56",
+        "pxt": "8.5.59",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "pyprj",
+    "languageRestriction": "python-only"
+}
